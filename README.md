@@ -16,5 +16,5 @@ Run with Python 3.7.9
 ## `python train_test.py` 
                 - Predicts the image class using the trained model. (Test the images)
 
-Tutorial for this project is available at - [Image Classification using Python and Machine Learning]
-https://github.com/Gogul09/image-classification-python
+Tutorial for this project is available at - [Image Classification using Python and Machine Learning] https://gogul.dev/software/image-classification-python
+           https://github.com/Gogul09/image-classification-python
